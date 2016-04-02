@@ -5,6 +5,8 @@
  * used word in the the following different method.
  */
 
+//This software is under GPL
+
 package trees;
 import java.util.NoSuchElementException; //Throws element not found exception
 
